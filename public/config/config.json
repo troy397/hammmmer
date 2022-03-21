@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://etherscan.io/address/0x3c24327078db31e770af8d0a36a0f0749d7625f4",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Hammer Ape Studio",
+  "SYMBOL": "HASNFT",
+  "MAX_SUPPLY": 3333,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 33000000000000000,
+  "DISPLAY_COST": 0.033,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.gg/wmqa9Y4p6J",
+  "SHOW_BACKGROUND": true
+}
